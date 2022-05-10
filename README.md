@@ -1,3 +1,7 @@
+# Fun with AI Preview
+<img width="1646" alt="Screen Shot 2022-05-10 at 2 29 55 PM" src="https://user-images.githubusercontent.com/30906095/167698537-482825e6-6acd-4ff0-82dd-429302cf9e42.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
